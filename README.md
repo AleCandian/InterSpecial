@@ -21,9 +21,9 @@ _InterSpecial_ is an initiative that will encompass the Faculty of Science of th
 ## Contact and Contribution
 Do you have an amazing idea on how you can contribute to _InterSpecial_ ? Do yuo have complex research questions that need different expertise working together? Get in contact
 
-Alessandra Candian (API) => a.candian@uva.nl
-Esther Quadekeckers (IIS) => e.quaedackers@uva.nl
-Annemieke Petrignani (HIMS) => a.petrignani@uva.nl
+- Alessandra Candian (API) => a.candian@uva.nl
+- Esther Quadekeckers (IIS) => e.quaedackers@uva.nl
+- Annemieke Petrignani (HIMS) => a.petrignani@uva.nl
 
 
 
