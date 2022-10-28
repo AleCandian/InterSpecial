@@ -4,6 +4,4 @@ plugins:
 title: [InterSpecial]
 description: [Teaching Interdisciplinary skills to Specialised students of the University of Amsterdam]
 show_downloads: [false]
-github:
-  zip_url: http://example.com/download.zip
-  another_url: https://InterSpecial.org
+
