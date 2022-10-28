@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [InterSpecial]
 description: [teaching Interdisciplinary skills to Specialised students]
+show_downloads: [false]
